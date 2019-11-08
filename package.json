@@ -1,0 +1,16 @@
+{
+  "name": "18.2-react_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "watch": "parcel index.html --open --no-autoinstall --port 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
